@@ -1,0 +1,115 @@
+Week 1: Getting Started with Selenium and Basic Web Elements
+Day 1: Set up your environment (Java, Maven, Selenium WebDriver).
+Day 2: Create a Maven project and set up dependencies.
+Day 3: Write a simple test to open a browser and navigate to a website.
+Day 4: Locate and interact with web elements (e.g., clicking a button).
+Day 5: Write a test to fill out a form and submit it.
+Day 6: Capture and verify the page title.
+Day 7: Use different locators (id, name, class, tag, CSS, XPath).
+Week 2: Working with Advanced Web Elements
+Day 8: Handle dropdowns and select options.
+Day 9: Interact with checkboxes and radio buttons.
+Day 10: Work with alerts and pop-ups.
+Day 11: Handle multiple windows and frames.
+Day 12: Write tests for dynamic web elements.
+Day 13: Capture screenshots on test failure.
+Day 14: Practice with a sample project combining all elements learned.
+Week 3: TestNG Basics and Assertions
+Day 15: Set up TestNG in your Maven project.
+Day 16: Write a basic TestNG test and run it.
+Day 17: Understand and use TestNG annotations.
+Day 18: Implement assertions in TestNG.
+Day 19: Group and prioritize tests.
+Day 20: Parameterize tests using TestNG.
+Day 21: Data-driven testing with TestNG (using DataProvider).
+Week 4: Page Object Model (POM)
+Day 22: Introduction to POM and its advantages.
+Day 23: Create a simple POM structure.
+Day 24: Implement a basic test using POM.
+Day 25: Enhance POM with reusable methods.
+Day 26: Use POM with TestNG.
+Day 27: Refactor code for better maintainability.
+Day 28: Practice POM with a sample project.
+Week 5: Maven Advanced Features
+Day 29: Understand the Maven lifecycle.
+Day 30: Use Maven plugins for reporting.
+Day 31: Set up a Maven build profile.
+Day 32: Use Maven to run tests in different environments.
+Day 33: Integrate Surefire plugin for test execution.
+Day 34: Generate and interpret test reports.
+Day 35: Practice a Maven project combining all features.
+Week 6: Git and Version Control
+Day 36: Introduction to Git and version control.
+Day 37: Set up a Git repository and understand basic commands.
+Day 38: Commit, push, and pull changes.
+Day 39: Create and manage branches.
+Day 40: Merge branches and resolve conflicts.
+Day 41: Use Git for team collaboration.
+Day 42: Practice with a project using Git and collaboration features.
+Week 7: CI/CD Integration
+Day 43: Introduction to Continuous Integration/Continuous Deployment.
+Day 44: Set up Jenkins for CI.
+Day 45: Create a Jenkins job to run your tests.
+Day 46: Schedule automated test runs.
+Day 47: Integrate Jenkins with Git.
+Day 48: Generate and publish test reports in Jenkins.
+Day 49: Practice a CI/CD pipeline with a sample project.
+Day 50: Mid-course review and consolidate learning.
+Week 8: Advanced Selenium Features
+Day 51: Introduction to Selenium Grid.
+Day 52: Set up and configure Selenium Grid.
+Day 53: Run tests on different browsers using Selenium Grid.
+Day 54: Capture logs and debug failed tests.
+Day 55: Use DesiredCapabilities for advanced browser settings.
+Day 56: Work with cookies and session management.
+Day 57: Practice advanced Selenium features with a sample project.
+Week 9: Real-world Test Scenarios
+Day 58: Write tests for e-commerce websites (search functionality).
+Day 59: Test login and authentication workflows.
+Day 60: Validate complex form submissions.
+Day 61: Automate tests for AJAX-based applications.
+Day 62: Handle file uploads and downloads.
+Day 63: Write tests for REST APIs using RestAssured with TestNG.
+Day 64: Practice real-world scenarios with a sample project.
+Week 10: Test Optimization and Maintenance
+Day 65: Refactor and optimize test code.
+Day 66: Implement test retries for flaky tests.
+Day 67: Use logging for better test diagnostics.
+Day 68: Handle test data using external sources (CSV, Excel).
+Day 69: Mocking and stubbing in test automation.
+Day 70: Practice optimizing and maintaining tests with a sample project.
+Week 11: Performance Testing with Selenium
+Day 71: Introduction to performance testing.
+Day 72: Set up JMeter and integrate with Selenium.
+Day 73: Record and replay performance tests.
+Day 74: Analyze performance test results.
+Day 75: Practice performance testing with a sample project.
+Week 12: Security Testing with Selenium
+Day 76: Introduction to security testing.
+Day 77: Set up and use OWASP ZAP with Selenium.
+Day 78: Automate security scans.
+Day 79: Analyze and report security vulnerabilities.
+Day 80: Practice security testing with a sample project.
+Week 13: API Testing with Selenium and TestNG
+Day 81: Introduction to API testing.
+Day 82: Set up RestAssured for API testing.
+Day 83: Write basic API tests.
+Day 84: Integrate API tests with Selenium tests.
+Day 85: Handle JSON and XML responses.
+Day 86: Practice API testing with a sample project.
+Week 14: Advanced TestNG Features
+Day 87: Parallel test execution in TestNG.
+Day 88: Generate custom TestNG reports.
+Day 89: Use listeners and reporters in TestNG.
+Day 90: Practice advanced TestNG features with a sample project.
+Week 15: End-to-End Project
+Day 91: Define an end-to-end testing strategy.
+Day 92: Set up the project structure and requirements.
+Day 93: Develop POM for the project.
+Day 94: Write and integrate Selenium tests.
+Day 95: Integrate API tests.
+Day 96: Set up CI/CD pipeline for the project.
+Day 97: Execute and validate test runs.
+Day 98: Analyze and optimize test results.
+Day 99: Document the entire process.
+Day 100: Review and present the completed project.
